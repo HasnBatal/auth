@@ -41,11 +41,5 @@ const styles = {
     }
 };
 
-/*
-    without index.js
-*/
-//export default Button;
-
-
-export  {Button};
+export default  Button;
 

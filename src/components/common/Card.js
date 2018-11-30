@@ -32,8 +32,4 @@ const styles = {
     }
 }
 
-/*
-    without index.js
-*/
-//export default Card;
-export  {Card};
+export default  Card;
